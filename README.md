@@ -243,7 +243,7 @@ Para reporte científico nas versões atuais, priorizar:
 - `pde_residual_l2_normalized`
 - `boundary_bc_error_nd` e razão de assimetria `boundary_bc_error_dirichlet_ratio_right_left`
 
-## Figuras para Paper
+## Gráficos Gerados 
 
 Geradas por `src/plotting.py`:
 - `fieldComparison.png`
