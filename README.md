@@ -325,7 +325,6 @@ Template BibTeX:
   title   = {PINN Thermal 2D},
   author  = {Autores do projeto},
   year    = {2026},
-  url     = {https://github.com/<org>/<repo>},
-  note    = {Commit/Tag: <hash-ou-tag>}
+  url     = {https://github.com/Josemar437/pinn_plate2D_laplace.git},
 }
 ```
