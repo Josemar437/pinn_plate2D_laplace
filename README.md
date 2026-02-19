@@ -3,7 +3,7 @@
 Physics-Informed Neural Network (PINN) para condução térmica bidimensional em regime permanente, com validação quantitativa contra uma solução de referência por diferenças finitas (FDM).
 
 
-## Resumo Científico
+## Resumo
 
 Este trabalho resolve a equação de Laplace em uma placa retangular com contornos mistos:
 - Dirichlet nas fronteiras verticais.
