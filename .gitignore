@@ -7,6 +7,7 @@
 .agents/
 .gemini/
 PARECER_TECNICO_AUDITORIA.md
+parametros_modelo.md
 CORRECOES_COLORBAR.md
 enhanced_publication_plots/
 enhanced_pinn_plots/
