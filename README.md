@@ -323,7 +323,7 @@ Template BibTeX:
 ```bibtex
 @software{pinn_thermal_2d_2026,
   title   = {PINN Thermal 2D},
-  author  = {Josemar Rocha Pedroso; Camila Borges; Drª. Nuccia Carla Arruda de Souza},
+  author  = {Josemar Rocha Pedroso; Camila Borges; Dra. Nuccia Carla Arruda de Souza},
   year    = {2026},
   url     = {https://github.com/Josemar437/pinn_plate2D_laplace.git},
 }
