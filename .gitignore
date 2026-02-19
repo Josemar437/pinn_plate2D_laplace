@@ -1,0 +1,77 @@
+# ==========================================================
+# PINN Thermal 2D - Git Ignore Rules
+# ==========================================================
+
+# --- Agent / Auditoria / Artefatos Locais ---
+.agent/
+.agents/
+.gemini/
+PARECER_TECNICO_AUDITORIA.md
+CORRECOES_COLORBAR.md
+enhanced_publication_plots/
+enhanced_pinn_plots/
+
+# --- Ambientes Python / Conda ---
+.venv/
+venv/
+env/
+ENV/
+.conda/
+conda-meta/
+
+# --- Bytecode / Cache Python ---
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*$py.class
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.pyre/
+.hypothesis/
+.cache/
+
+# --- Cobertura / Relatórios Locais ---
+.coverage
+.coverage.*
+htmlcov/
+
+# --- Jupyter ---
+.ipynb_checkpoints/
+
+# --- Build / Empacotamento ---
+build/
+dist/
+*.egg-info/
+.eggs/
+pip-wheel-metadata/
+*.whl
+
+# --- IDE / Editor ---
+.vscode/
+.idea/
+*.code-workspace
+
+# --- Sistema Operacional ---
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# --- Logs / Temporários ---
+*.log
+*.tmp
+*.temp
+
+# --- Saídas do Projeto (execuções e experimentos) ---
+runs/logs/
+runs/plots/
+runs/results/
+orphaned/
+
+# --- Node/NPM temporário (uso de npx) ---
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
