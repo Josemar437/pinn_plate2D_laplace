@@ -2,7 +2,6 @@
 
 Physics-Informed Neural Network (PINN) para condução térmica bidimensional em regime permanente, com validação quantitativa contra uma solução de referência por diferenças finitas (FDM).
 
-Este README foi estruturado para uso em contexto de paper científico: formulação matemática, protocolo experimental, reprodutibilidade e reporte de resultados.
 
 ## Resumo Científico
 
