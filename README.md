@@ -316,7 +316,6 @@ Recomendado reportar:
 
 ## Citação
 
-Se este repositório apoiar um artigo, inclua referência ao commit/tag exato utilizado e, idealmente, um DOI (Zenodo).
 
 Template BibTeX:
 
