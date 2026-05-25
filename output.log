@@ -1,0 +1,36 @@
+00:19:54 - INFO - ================================================================================
+00:19:54 - INFO - Rede Neural Informada pela Física: Condução Térmica Bidimensional em Regime Permanente
+00:19:54 - INFO - ================================================================================
+00:19:54 - INFO - Dispositivo: cpu
+00:19:54 - INFO - ================================================================================
+00:19:54 - INFO - Gerando malhas de colocation de alta densidade (Sobol)...
+00:19:54 - INFO - Construindo manifold neural profundo...
+00:19:54 - INFO - Model Architecture: EnhancedThermalPINN
+00:19:54 - INFO - Trainable Parameters: 8,577
+00:19:54 - INFO - Iniciando otimização híbrida de alta precisão...
+00:19:57 - INFO - Iniciando Fase de Treinamento Adam (100 épocas)...
+d:\TCC\PyTorch\2D_PlacaPlana\.venv\Lib\site-packages\torch\optim\lr_scheduler.py:1340: UserWarning: Converting a tensor with requires_grad=True to a scalar may lead to unexpected behavior.
+Consider using tensor.detach() first. (Triggered internally at C:\actions-runner\_work\pytorch\pytorch\pytorch\torch\csrc\autograd\generated\python_variable_methods.cpp:836.)
+  current = float(metrics)
+00:19:57 - INFO - Epoch 0000 | Total Loss: 1.01e+06 | PDE: 3.73e-03 | LR: 1.00e-03
+00:20:17 - INFO - Iniciando Refinamento L-BFGS (10 iterações)...
+00:20:19 - INFO - Treinamento concluído em 22.0s
+00:20:19 - INFO - Tempo computacional total: 24.8s
+00:20:19 - INFO - Realizando análise rigorosa de erros e verificações de consistência física...
+00:20:19 - INFO - 
+================================================================================
+00:20:19 - INFO - SCIENTIFIC PERFORMANCE MANIFEST
+00:20:19 - INFO - ================================================================================
+00:20:19 - INFO - Mean Absolute Error (MAE):     6.4546e+00 K
+00:20:19 - INFO - Root Mean Square Error (RMSE): 7.5856e+00 K
+00:20:19 - INFO - Coefficient of Determination:   0.931866
+00:20:19 - INFO - Global Peak Error:             1.7973e+01 K
+00:20:19 - INFO - ================================================================================
+00:20:19 - INFO - 
+Perfil de Convergência: Perda Residual Final = 5.11e+05
+00:20:19 - INFO - Gerando visualizações de nível de publicação e dashboards de diagnóstico...
+00:20:19 - INFO - Generating expanded dashboard...
+00:20:23 - INFO - ================================================================================
+00:20:23 - INFO - AVALIAÇÃO TÉCNICA CONCLUÍDA: ARQUIVO PRONTO
+00:20:23 - INFO - ================================================================================
+CPU Ativado

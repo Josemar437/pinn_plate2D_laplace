@@ -1,0 +1,65 @@
+# --- Agent and Audit Files ---
+.agent/
+.gemini/
+PARECER_TECNICO_AUDITORIA.md
+CORRECOES_COLORBAR.md
+enhanced_publication_plots/
+enhanced_pinn_plots/
+
+# --- Python Environment ---
+.venv/
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+
+# --- IDEs and Tools ---
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+*.code-workspace
+
+# --- Jupyter Notebooks ---
+.ipynb_checkpoints
+
+# --- Distribution / Packaging ---
+dist/
+build/
+*.egg-info/
+*.egg
+pip-log.txt
+pip-delete-this-directory.txt
+
+# --- Unit Test / Coverage ---
+htmlcov/
+.tox/
+.nox/
+.coverage
+.coverage.*
+.cache
+.pytest_cache/
+nosetests.xml
+coverage.xml
+
+# --- Project Specific ---
+plots/
+results/
+checkpoints/
+*.pth
+*.pt
+*.pkl
+*.pickle
+*.csv
+scientific_report.txt
+.mypy_cache/
+.dmypy.json
+dmypy.json
+.pyre/
